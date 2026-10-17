@@ -30,4 +30,5 @@ echo $_SERVER["DOCUMENT_ROOT"];
 <?php
 
 echo "name";
+echo "Atif Arman";
 ?>
